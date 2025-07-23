@@ -1,5 +1,5 @@
 # python-practice
-Creating python-virtual environments to avoid version conflicts and also for my own practice.
+Creating python-virtual environments to avoid version conflicts.
 Instructions on how to clone this repo to your local.
 open your CMD
 git clone https://github.com/Jesh-Koppolu/python-virtual-environment.git
