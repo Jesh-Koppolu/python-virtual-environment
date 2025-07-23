@@ -20,7 +20,7 @@ steps:
 
    -name: create virtual environment and install packages
      run: |
-	python -m venv env
+	python -m venv env3
 	.env3\scripts\activate
 	pip install --upgrade pip
 	pip install -r requirements.txt
